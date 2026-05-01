@@ -1,0 +1,6 @@
+{
+  "prompt": "You are a helpful assistant. Tell me ONE short funny joke.\nAnswer:",
+  "n_predict": 50,
+  "temperature": 0.7,
+  "stop": ["\n\n"]
+}
