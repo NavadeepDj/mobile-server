@@ -1,4 +1,3 @@
-GNU nano 9.0          aiserver.py
 from fastapi import FastAPI
 import subprocess
 
